@@ -136,7 +136,7 @@ header {
 .about-course-headline {
     font-family: roboto slab;
     font-size: 6.93vw;
-    width: 27.73vw;
+    width: 29vw;
 }
 
 .info {
@@ -175,8 +175,8 @@ h2 {
 }
 
 .screenwriter {
-    margin-right: 17.60vw
-
+    margin-left: 17.60vw;
+    width: 45.5vw;
 }
 
 .element-one {
@@ -209,7 +209,7 @@ h2 {
 .class-format h1 {
     font-family: Roboto Slab;
     font-size: 6.93vw;
-    width: 61.07vw;
+    width: 63vw;
     margin-bottom: 32px;
 }
 
@@ -270,7 +270,7 @@ h2 {
     font-family: Roboto Slab;
     font-size: 6.93vw;
     margin: 0 0 51px 0;
-    width: 64vw;
+    width: 66vw;
 }
 
 .program-container {
@@ -584,7 +584,7 @@ footer {
         height: 11.65vw;
         padding: 12px 9px 16px 15px;
         border-radius: 0.30vw;
-        margin-left: 23.89vw;
+        margin-left: 16.89vw;
     }
     
     .quote-item {
@@ -604,78 +604,77 @@ footer {
 
 
 
-.about-course-headline {
-    font-size: 3.23vw;
-    width: 13.51vw;
-    margin-bottom: 29px;
-}
+    .about-course-headline {
+        font-size: 3.23vw;
+        width: 13.51vw;
+        margin-bottom: 29px;
+    }
 
-.info {
-    display: flex;
-    margin-bottom: 45px;
-}
+    .info {
+        display: flex;
+        margin-bottom: 45px;
+    }
 
-.about-course {
-    padding: 100px 88px 0px 70px;
-}
+    .about-course {
+        padding: 100px 88px 0px 70px;
+    }
 
-h2 {
-    font-size: 1.51vw;
-    margin-bottom: 8px;
-}
+    h2 {
+        font-size: 1.51vw;
+        margin-bottom: 8px;
+    }
 
 
-.time {
-    font-size: 1.11vw;
-    line-height: 1.41vw;
-    margin: 0;
-}
+    .time {
+        font-size: 1.11vw;
+        line-height: 1.41vw;
+        margin: 0;
+    }
 
-.description {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-}
+    .description {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+    }
 
-.text {
-    line-height: 2.12vw;
-    width: 36.5vw;
-    font-size: 1.41vw;   
-}
+    .text {
+        line-height: 2.12vw;
+        width: 36.5vw;
+        font-size: 1.41vw;   
+    }
 
-p {
-    margin: 0;
-}
+    p {
+        margin: 0;
+    }
 
-.screenwriter-two {
-    margin-right: 76px;
-    display: block;
-    width: 13.51vw;
-}
+    .screenwriter-two {
+        margin-right: 76px;
+        display: block;
+        width: 13.51vw;
+    }
 
-.screenwriter {
-    width: 18.35vw;
-    margin: 14px 0 0 131px;
-}
+    .screenwriter {
+        width: 18.35vw;
+        margin: 14px 0 0 131px;
+    }
 
-.element-one {
-    margin-right: 5.54vw;
-    width: 8.77vw;
-    height: 4.54vw; 
-    margin-bottom: 0;
-}
+    .element-one {
+        margin-right: 5.54vw;
+        width: 8.77vw;
+        height: 4.54vw; 
+        margin-bottom: 0;
+    }
 
-.element-two {
-    margin-right: 5.04vw;
-    width: 9.17vw;
-    height: 4.54vw; 
-}
+    .element-two {
+        margin-right: 5.04vw;
+        width: 9.17vw;
+        height: 4.54vw; 
+    }
 
-.element-three {
-    /* margin-right: 314px; */
-    width: 8.06vw;
-    height: 4.54vw; 
-}
+    .element-three {
+        width: 8.06vw;
+        height: 4.54vw; 
+    }
 
 
 
@@ -683,36 +682,36 @@ p {
 
 
 
-.class-format {
-    padding: 103px 199px 0 70px; 
-}
+    .class-format {
+        padding: 103px 199px 0 70px; 
+    }
 
-.class-format h1 {
-    font-size: 3.23vw;
-    width: 28.63vw;
-    margin-bottom: 71px;
-}
+    .class-format h1 {
+        font-size: 3.23vw;
+        width: 28.63vw;
+        margin-bottom: 71px;
+    }
 
-.description-of-classes{
-    width: 57.46vw;
-    display: flex;
-}
+    .description-of-classes{
+        width: 57.46vw;
+        display: flex;
+    }
 
-.class-format h3 {
-    font-size: 1.51vw;
-    margin: 0 0 5px 0;
-}
+    .class-format h3 {
+        font-size: 1.51vw;
+        margin: 0 0 5px 0;
+    }
 
-.class-format p {
-    font-size: 1.11vw;
-    line-height: 1.41vw;
-    margin: 0;
-}
+    .class-format p {
+        font-size: 1.11vw;
+        line-height: 1.41vw;
+        margin: 0;
+    }
 
-.description-of-classes-item {
-    width: 16.33vw;
-    margin-right: 60px;
-}
+    .description-of-classes-item {
+        width: 16.33vw;
+        margin-right: 60px;
+    }
 
 
 
@@ -720,24 +719,24 @@ p {
 
 
 
-.knowledge{
-    padding: 119px 370px 0px 79px;
-}
+    .knowledge{
+        padding: 119px 370px 0px 79px;
+    }
 
-.knowledge h1 {
-    font-size: 3.23vw;
-    margin: 0 0 32px 0;
-}
+    .knowledge h1 {
+        font-size: 3.23vw;
+        margin: 0 0 32px 0;
+    }
 
-.knowledge ul {
-    padding-inline-start: 18px;
-    width: 38.61vw;
-}
+    .knowledge ul {
+        padding-inline-start: 18px;
+        width: 38.61vw;
+    }
 
-.knowledge li {
-    font-size: 1.41vw;
-    line-height: 2.12vw;
-}
+    .knowledge li {
+        font-size: 1.41vw;
+        line-height: 2.12vw;
+    }
 
 
 
@@ -745,57 +744,57 @@ p {
 
 
 
-.course-program {
-    padding: 132px 49.23px 0 48.65px;
-}
+    .course-program {
+        padding: 132px 49.23px 0 48.65px;
+    }
 
-.block-4-title {
-    font-size: 3.23vw;
-    margin: 0 0 73px 0;
-    width: 29.94vw;
-}
+    .block-4-title {
+        font-size: 3.23vw;
+        margin: 0 0 73px 0;
+        width: 29.94vw;
+    }
 
-.program-container {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    flex-wrap: wrap;
-    margin: 0;
-}
+    .program-container {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        flex-wrap: wrap;
+        margin: 0;
+    }
 
-.program-container-item {
-    width: 23.29vw;
-    height: 19.15vw;
-    border-radius: 1.81vw;
-    margin-bottom: 24px;
-    margin-right: 21.43px;
-}
+    .program-container-item {
+        width: 23.29vw;
+        height: 19.15vw;
+        border-radius: 1.81vw;
+        margin-bottom: 24px;
+        margin-right: 21.43px;
+    }
 
-.program-picture {
-    width: 23.29vw;
-}
+    .program-picture {
+        width: 23.29vw;
+    }
 
-.block-4-subtitle {
-    font-size: 1.71vw;
-    margin: 6.37px 0 18.53px 11.58px ;
-}
+    .block-4-subtitle {
+        font-size: 1.71vw;
+        margin: 6.37px 0 18.53px 11.58px ;
+    }
 
-.block-4-subtitle-last {
-    margin: 0 0 0 11.58px;
-    font-size: 1.71vw;
-}
+    .block-4-subtitle-last {
+        margin: 0 0 0 11.58px;
+        font-size: 1.71vw;
+    }
 
-.program-date-info {
-    font-size: 1.41vw;
-    line-height: 1.81vw;
-    margin: 18.53px 0 0 11px;
-}
+    .program-date-info {
+        font-size: 1.41vw;
+        line-height: 1.81vw;
+        margin: 18.53px 0 0 11px;
+    }
 
-.program-date-info-last {
-    margin: 0 0 0 11;
-    font-size: 1.41vw;
-    line-height: 1.81vw;
-}
+    .program-date-info-last {
+        margin: 0 0 0 11;
+        font-size: 1.41vw;
+        line-height: 1.81vw;
+    }
 
 
 
@@ -803,49 +802,49 @@ p {
 
 
 
-.reviews {
-    background-color: #EFEFEF;
-    padding: 53px 256px 64px 74px;
-    width: 100%;
-}
+    .reviews {
+        background-color: #EFEFEF;
+        padding: 53px 256px 64px 74px;
+        width: 100%;
+    }
 
-.course-count {
-    font-size: 3.23vw;
-    line-height: 6.93vw;
-    margin: 0 0 30px 0;
-    width: 65.60vw;
-}
+    .course-count {
+        font-size: 3.23vw;
+        line-height: 6.93vw;
+        margin: 0 0 30px 0;
+        width: 65.60vw;
+    }
 
-.reviews_item {
-    width: 46.17vw;
-    height: 26.31vw;
-    border-radius: 1.71vw;
-    padding: 23px 45px 17px 26px;
-}
+    .reviews_item {
+        width: 46.17vw;
+        height: 26.31vw;
+        border-radius: 1.71vw;
+        padding: 23px 45px 17px 26px;
+    }
 
-.review-text {
-    font-size: 1.21vw;
-    line-height: 1.81vw;
-    margin: 0 0 19px 0;
-}
+    .review-text {
+        font-size: 1.21vw;
+        line-height: 1.81vw;
+        margin: 0 0 19px 0;
+    }
 
-.reviews_avatar {
-    width: 9.07vw;
-    margin-right: 38px;
-}
+    .reviews_avatar {
+        width: 9.07vw;
+        margin-right: 38px;
+    }
 
-.name-of-reviewer {
-    font-size: 1.71vw;
-    margin-bottom: 15px;
-}
+    .name-of-reviewer {
+        font-size: 1.71vw;
+        margin-bottom: 15px;
+    }
 
-.author-of-review {
-    display: flex;
-}
+    .author-of-review {
+        display: flex;
+    }
 
-.facebook-icon {
-    width: 1.81vw;
-}
+    .facebook-icon {
+        width: 1.81vw;
+    }
 
 
 
@@ -853,40 +852,40 @@ p {
 
 
 
-.cost {
-    padding: 103px 310px 119px 71px;
-}
+    .cost {
+        padding: 103px 310px 119px 71px;
+    }
 
 
-.block-cost-title {
-    font-size: 3.23vw;
-    line-height: 3.23vw;
-    margin: 0 0 37px 0;
-    width: 45.67vw;
-}
+    .block-cost-title {
+        font-size: 3.23vw;
+        line-height: 3.23vw;
+        margin: 0 0 37px 0;
+        width: 45.67vw;
+    }
 
-.cost-container-flex {
-    margin-top: 43px;
-}
+    .cost-container-flex {
+        margin-top: 43px;
+    }
 
-.cost-container-flex-item{
-    margin: 0 40px 0 0;
-}
+    .cost-container-flex-item{
+        margin: 0 40px 0 0;
+    }
 
-.cost-paragraph {
-    font-size: 1.01vw;
-    line-height: 1.01vw;
-    margin-top: 5px;
-    width: 17.14vw;
-}
+    .cost-paragraph {
+        font-size: 1.01vw;
+        line-height: 1.01vw;
+        margin-top: 5px;
+        width: 17.14vw;
+    }
 
-.cost-subtitle {
-    font-size: 1.41vw;
-}
+    .cost-subtitle {
+        font-size: 1.41vw;
+    }
 
-.cost-number{
-    font-size: 4.64vw;
-}
+    .cost-number{
+        font-size: 4.64vw;
+    }
 
 
 
@@ -972,7 +971,13 @@ p {
 
 
 @media(min-width: 1280px) {
+
+
+
+    /* Секция header */
  
+
+
     header {
         padding: 21px 80px 0 121px;
     }
@@ -1064,78 +1069,77 @@ p {
 
 
 
-.about-course-headline {
-    font-size: 4.30vw;
-    width: 17.34vw;
-    margin-bottom: 50px;
-}
+    .about-course-headline {
+        font-size: 4.30vw;
+        width: 17.34vw;
+        margin-bottom: 50px;
+    }
 
-.info {
-    display: flex;
-    margin-bottom: 79px;
-}
+    .info {
+        display: flex;
+        margin-bottom: 79px;
+    }
 
-.about-course {
-    padding: 173px 153px 0px 121px;
-}
+    .about-course {
+        padding: 173px 153px 0px 121px;
+    }
 
-h2 {
-    font-size: 1.95vw;
-    margin-bottom: 15px;
-}
+    h2 {
+        font-size: 1.95vw;
+        margin-bottom: 15px;
+    }
 
 
-.time {
-    font-size: 1.41vw;
-    line-height: 1.80vw;
-    margin: 0;
-}
+    .time {
+        font-size: 1.41vw;
+        line-height: 1.80vw;
+        margin: 0;
+    }
 
-.description {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-}
+    .description {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+    }
 
-.text {
-    line-height: 2.81vw;
-    width: 51.72vw;
-    font-size: 1.88vw;   
-}
+    .text {
+        line-height: 2.81vw;
+        width: 51.72vw;
+        font-size: 1.88vw;   
+    }
 
-p {
-    margin: 0;
-}
+    p {
+        margin: 0;
+    }
 
-.screenwriter-two {
-    margin-right: 132px;
-    display: block;
-    width: 18.13vw;
-}
+    .screenwriter-two {
+        margin-right: 132px;
+        display: block;
+        width: 18.13vw;
+    }
 
-.screenwriter {
-    width: 24.53vw;
-    margin: 17px 0 0 190px;
-}
+    .screenwriter {
+        width: 24.53vw;
+        margin: 17px 0 0 190px;
+    }
 
-.element-one {
-    margin-right: 7.42vw;
-    width: 11.72vw;
-    height: 6.09vw; 
-    margin-bottom: 0;
-}
+    .element-one {
+        margin-right: 7.42vw;
+        width: 11.72vw;
+        height: 6.09vw; 
+        margin-bottom: 0;
+    }
 
-.element-two {
-    margin-right: 7.27vw;
-    width: 11.72vw;
-    height: 6.09vw; 
-}
+    .element-two {
+        margin-right: 7.27vw;
+        width: 11.72vw;
+        height: 6.09vw; 
+    }
 
-.element-three {
-    /* margin-right: 314px; */
-    width: 10.39vw;
-    height: 6.09vw; 
-}
+    .element-three {
+        width: 10.39vw;
+        height: 6.09vw; 
+    }
 
 
 
@@ -1143,36 +1147,36 @@ p {
 
 
 
-.class-format {
-    padding: 178px 344px 0 121px; 
-}
+    .class-format {
+        padding: 178px 344px 0 121px; 
+    }
 
-.class-format h1 {
-    font-size: 4.30vw;
-    width: 37.97vw;
-    margin-bottom: 123px;
-}
+    .class-format h1 {
+        font-size: 4.30vw;
+        width: 37.97vw;
+        margin-bottom: 123px;
+    }
 
-.description-of-classes{
-    width: 76.02vw;
-    display: flex;
-}
+    .description-of-classes{
+        width: 76.02vw;
+        display: flex;
+    }
 
-.class-format h3 {
-    font-size: 1.95vw;
-    margin-bottom: 10px;
-}
+    .class-format h3 {
+        font-size: 1.95vw;
+        margin-bottom: 10px;
+    }
 
-.class-format p {
-    font-size: 1.41vw;
-    line-height: 1.80vw;
-    margin: 0;
-}
+    .class-format p {
+        font-size: 1.41vw;
+        line-height: 1.80vw;
+        margin: 0;
+    }
 
-.description-of-classes-item {
-    width: 21.17vw;
-    margin-right: 119x;
-}
+    .description-of-classes-item {
+        width: 21.17vw;
+        margin-right: 119x;
+    }
 
 
 
@@ -1180,24 +1184,24 @@ p {
 
 
 
-.knowledge{
-    padding: 214px 500px 0px 121px;
-}
+    .knowledge{
+        padding: 214px 500px 0px 121px;
+    }
 
-.knowledge h1 {
-    font-size: 4.30vw;
-    margin-bottom: 53px;
-}
+    .knowledge h1 {
+        font-size: 4.30vw;
+        margin-bottom: 53px;
+    }
 
-.knowledge ul {
-    padding-inline-start: 18px;
-    width: 51.72vw;
-}
+    .knowledge ul {
+        padding-inline-start: 18px;
+        width: 51.72vw;
+    }
 
-.knowledge li {
-    font-size: 1.88vw;
-    line-height: 2.81vw;
-}
+    .knowledge li {
+        font-size: 1.88vw;
+        line-height: 2.81vw;
+    }
 
 
 
@@ -1205,59 +1209,59 @@ p {
 
 
 
-.course-program {
-    padding: 229px 85px 121px 84px;
-}
+    .course-program {
+        padding: 229px 85px 121px 84px;
+    }
 
-.block-4-title {
-    font-size: 4.30vw;
-    margin: 0 0 125px 0;
-    width: 40.08vw;
-}
+    .block-4-title {
+        font-size: 4.30vw;
+        margin: 0 0 125px 0;
+        width: 40.08vw;
+    }
 
-.program-container {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    flex-wrap: wrap;
-    margin: 0;
-    width: 96.67vw;
-}
+    .program-container {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        flex-wrap: wrap;
+        margin: 0;
+        width: 96.67vw;
+    }
 
-.program-container-item {
-    width: 27vw;
-    height: 21.46vw;
-    border-radius: 2.34vw;
-    margin-bottom: 41px;
-    margin-right: 37px;
-}
+    .program-container-item {
+        width: 27vw;
+        height: 21.46vw;
+        border-radius: 2.34vw;
+        margin-bottom: 41px;
+        margin-right: 37px;
+    }
 
-.program-picture {
-    width: 27vw;
-}
+    .program-picture {
+        width: 27vw;
+    }
 
-.block-4-subtitle {
-    font-size: 2vw;
-    margin: 10px 0 20px 20px ;
-}
+    .block-4-subtitle {
+        font-size: 2vw;
+        margin: 10px 0 20px 20px ;
+    }
 
-.block-4-subtitle-last {
-    margin: 10px 0 10px 20px;
-    font-size: 2vw;
-    line-height: 2vw;
-}
+    .block-4-subtitle-last {
+        margin: 10px 0 10px 20px;
+        font-size: 2vw;
+        line-height: 2vw;
+    }
 
-.program-date-info {
-    font-size: 1.7vw;
-    line-height: 2.34vw;
-    margin: 18.53px 0 0 11px;
-}
+    .program-date-info {
+        font-size: 1.7vw;
+        line-height: 2.34vw;
+        margin: 18.53px 0 0 11px;
+    }
 
-.program-date-info-last {
-    margin: 0 0 0 20px;
-    font-size: 1.7vw;
-    line-height: 2vw;
-}
+    .program-date-info-last {
+        margin: 0 0 0 20px;
+        font-size: 1.7vw;
+        line-height: 2vw;
+    }
 
 
 
@@ -1265,46 +1269,46 @@ p {
 
 
 
-.reviews {
-    background-color: #EFEFEF;
-    padding: 91px 447px 111px 126px;
-    width: 100%;
-}
+    .reviews {
+        background-color: #EFEFEF;
+        padding: 91px 447px 111px 126px;
+        width: 100%;
+    }
 
-.course-count {
-    font-size: 4.30vw;
-    line-height: 4.40vw;
-    margin: 0 0 65px 0;
-    width: 68.05vw;
-}
+    .course-count {
+        font-size: 4.30vw;
+        line-height: 4.40vw;
+        margin: 0 0 65px 0;
+        width: 68.05vw;
+    }
 
-.reviews_item {
-    width: 61.80vw;
-    height: 35.23vw;
-    border-radius: 2.34vw;
-    padding: 40px 46px 29px 45px;
-    margin: 0;
-}
+    .reviews_item {
+        width: 61.80vw;
+        height: 35.23vw;
+        border-radius: 2.34vw;
+        padding: 40px 46px 29px 45px;
+        margin: 0;
+    }
 
-.review-text {
-    font-size: 1.56vw;
-    line-height: 2.34vw;
-    margin: 0 0 38px 0;
-}
+    .review-text {
+        font-size: 1.56vw;
+        line-height: 2.34vw;
+        margin: 0 0 38px 0;
+    }
 
-.reviews_avatar {
-    width: 12.03vw;
-    margin-right: 47px;
-}
+    .reviews_avatar {
+        width: 12.03vw;
+        margin-right: 47px;
+    }
 
-.name-of-reviewer {
-    font-size: 2.34vw;
-    margin-bottom: 27px;
-}
+    .name-of-reviewer {
+        font-size: 2.34vw;
+        margin-bottom: 27px;
+    }
 
-.facebook-icon {
-    width: 2.50vw;
-}
+    .facebook-icon {
+        width: 2.50vw;
+    }
 
 
 
@@ -1312,44 +1316,44 @@ p {
 
 
 
-.cost {
-    padding: 179px 540px 185px 122px;
-}
+    .cost {
+        padding: 179px 540px 185px 122px;
+    }
 
 
-.block-cost-title {
-    font-size: 4.30vw;
-    line-height: 4.30vw;
-    margin: 0 0 54px 0;
-    width: 60.08vw;
-}
+    .block-cost-title {
+        font-size: 4.30vw;
+        line-height: 4.30vw;
+        margin: 0 0 54px 0;
+        width: 60.08vw;
+    }
 
-.cost-container-flex {
-    margin-top: 72px;
-}
+    .cost-container-flex {
+        margin-top: 72px;
+    }
 
-.cost-container-flex-item{
-    margin: 0 70px 0 0;
-}
+    .cost-container-flex-item{
+        margin: 0 70px 0 0;
+    }
 
-.cost-paragraph {
-    font-size: 1.41vw;
-    line-height: 1.41vw;
-    margin-top: 10px;
-    width: 23.05vw;
-}
+    .cost-paragraph {
+        font-size: 1.41vw;
+        line-height: 1.41vw;
+        margin-top: 10px;
+        width: 23.05vw;
+    }
 
-.cost-subtitle {
-    font-size: 1.95vw;
-}
+    .cost-subtitle {
+        font-size: 1.95vw;
+    }
 
-.cost-number{
-    font-size: 6.25vw;
-}
+    .cost-number{
+        font-size: 6.25vw;
+    }
 
-    
+        
 
-/* Секция foooter */
+    /* Секция foooter */
 
 
 
